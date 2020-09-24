@@ -6,6 +6,6 @@ package models
  */
 type Perspn struct {
 	Name string
-	Age int
+	Age string
 	Sex string
 }
